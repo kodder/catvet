@@ -1,0 +1,8 @@
+Catvet is Tomcat Configurator.
+It will be written in python and gtk python.
+It's purpose is being able to configure a tomcat with a few clicks instead of going and configure the xml files.
+After that the configuration can be saved and reapplied again.
+It will suport tomcat 6 for start (yeah I know 7 is out, but I am doing this out of need and we use tomcat 6)
+
+
+
